@@ -1,0 +1,37 @@
+{
+    "Images": [{
+        "img": "http://www.hd-wallpapersdownload.com/upload/bulk-upload/hd-pic-download-hd-wallpaper.jpg"
+    }, {
+        "img": "http://hdwallpaperslovely.com/wp-content/gallery/hd-images-download/wallpapers-hd-download.jpg"
+    }, {
+
+        "img": "http://www.download-free-wallpaper.com/img69/tfrwxdncnxplriuqtejh.jpg"
+    }],
+    "Item": [{
+
+            "title": "Delloite",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Deloitte.svg/1000px-Deloitte.svg.png",
+            "description": "Deloitte, is a services firm"
+        }, {
+            "title": "Cognizant",
+            "logo": "http://cbs2014.saugatucktechnology.com/images/Sponsor_Logos/Transparent%20Small/Cognizant_LOGO_color.png",
+            "description": "Cognizant is a leading provider of information technology"
+        }, {
+            "title": "Accenture",
+            "logo": "http://logok.org/wp-content/uploads/2014/03/Accenture-red-arrow-logo.png",
+            "description": "Accenture"
+        }
+
+
+    ],
+    "Item1": [{
+            "img": "https://s3.amazonaws.com/bestworkplacesdb/listlogos/2015_ind_bwp_en.png"
+        }, {
+            "img": "http://www.regeneron.com/img/award-Fortune100Best-2015.jpg"
+        }, {
+            "img": "http://news.monsanto.com/sites/monsanto.newshq.businesswire.com/themes/monsanto_newshq_businesswire_com_theme/client_files/images/recognition/Forbes2012.png"
+        }
+
+
+    ]
+}
